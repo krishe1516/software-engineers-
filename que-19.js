@@ -7,7 +7,7 @@ for(i=0;i<=n;i++){
     console.log(first);
     next=first+second
     first=second
-    second=next    
+    second=next   
 }
 }
 fibo(10)
